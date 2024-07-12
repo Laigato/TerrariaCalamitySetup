@@ -2,6 +2,7 @@
 
 
 // Indonesia
+
 Cara Memasang Mod Calamity
 1. Beli Terraria (Dilarang membajak ya)
 2. Download enabled.json yang sudah disediakan
@@ -15,6 +16,7 @@ Cara Memasang Mod Calamity
 
 
 // English
+
 How to Setup Calamity Mod:
 1. Buy Terraria (I'm not promoting piracy bro)
 2. Download enabled.json, you can find it in this project
